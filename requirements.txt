@@ -1,6 +1,4 @@
 matplotlib
 pandas
 numpy
-sqlite3
 seaborn
-
